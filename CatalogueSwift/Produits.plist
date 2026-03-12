@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>1</integer>
+		<key>nom</key>
+		<string>iPhone 15</string>
+		<key>description</key>
+		<string>Smartphone Apple dernière génération avec écran OLED.</string>
+		<key>prix</key>
+		<real>1199.0</real>
+		<key>stock</key>
+		<integer>8</integer>
+		<key>categorie</key>
+		<string>Téléphone</string>
+		<key>marque</key>
+		<string>Apple</string>
+		<key>imageUrl</key>
+		<string>https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg</string>
+		<key>note</key>
+		<real>4.7</real>
+		<key>dateAjout</key>
+		<string>2026-03-01</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>2</integer>
+		<key>nom</key>
+		<string>MacBook Air M3</string>
+		<key>description</key>
+		<string>Ordinateur portable fin et léger pour le travail quotidien.</string>
+		<key>prix</key>
+		<real>1499.0</real>
+		<key>stock</key>
+		<integer>5</integer>
+		<key>categorie</key>
+		<string>Informatique</string>
+		<key>marque</key>
+		<string>Apple</string>
+		<key>imageUrl</key>
+		<string>https://images.pexels.com/photos/18105/pexels-photo.jpg</string>
+		<key>note</key>
+		<real>4.8</real>
+		<key>dateAjout</key>
+		<string>2026-02-20</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>3</integer>
+		<key>nom</key>
+		<string>Casque Bluetooth</string>
+		<key>description</key>
+		<string>Casque sans fil avec réduction de bruit active.</string>
+		<key>prix</key>
+		<real>249.99</real>
+		<key>stock</key>
+		<integer>15</integer>
+		<key>categorie</key>
+		<string>Audio</string>
+		<key>marque</key>
+		<string>Sony</string>
+		<key>imageUrl</key>
+		<string>https://images.pexels.com/photos/3394664/pexels-photo-3394664.jpeg</string>
+		<key>note</key>
+		<real>4.3</real>
+		<key>dateAjout</key>
+		<string>2026-01-10</string>
+	</dict>
+</array>
+</plist>
