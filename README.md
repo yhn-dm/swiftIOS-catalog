@@ -41,8 +41,8 @@ The main Xcode project lives in the `CatalogueSwift` directory.
 
 ## Screenshots
 
-There are currently no screenshots stored in this repository.  
-Once you capture some, you can place them in a `Screenshots/` folder at the root and reference them from this section, for example:
+Screenshots for this app can live either at the repository root or inside a dedicated `Screenshots/` folder.  
+You can reference them from this section using standard Markdown image syntax, for example:
 
 ```markdown
 ![Product list](Screenshots/product-list.png)
